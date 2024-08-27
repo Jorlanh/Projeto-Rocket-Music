@@ -1,0 +1,504 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+    
+    font-family: 'RocknRoll One', sans-serif;
+    background-color: #181A1F;
+    z-index: 1;
+    overflow-x: hidden;
+  }
+  
+  .desktop-1 * {
+  box-sizing: border-box;
+  }
+  
+  .desktop-1 * {
+  box-sizing: border-box;
+  }
+  
+  .desktop-1 {
+  background: #080A15;
+  width: auto;
+  height: 1934px;
+  position: relative;
+  }
+  .CapaTitulo {
+    width: 100%; /* Ocupando toda a largura disponível */
+    height: 40%; /* Altura automática com base no conteúdo */
+    box-shadow: 15px 15px 15px rgba(0, 0, 0, 0.5);
+    border-radius: 20px;
+    filter: blur(15px);
+    top: 100px;
+    position: absolute;
+    vertical-align: top; /* Alinha a imagem no topo */
+}
+
+  .Navbar {
+    width: 1430px;
+    height: 87px;
+    left: 100%;
+    z-index: 999;
+  }
+
+  .Rectangle1 {
+    width: 100%;
+    height: 87px;
+    left: 0;
+    top: 0;
+    position: absolute;
+    background: rgba(47, 44, 44, 0.28);
+  }
+
+  .um {
+    width: 22px;
+    height: 22px;
+    left: 89.5%;
+    top: 40px;
+    position: absolute;
+  }
+
+  .RocketMusicS {
+    left: 162px;
+    top: 37px;
+    position: absolute;
+    color: #41959A;
+    font-size: 30px;
+    font-family: 'RocknRoll One', sans-serif;
+    font-weight: 400;
+    word-wrap: break-word;
+  }
+
+  .RocketMusicS span {
+    color: #41959A;
+    font-size: 5px;
+    font-family: 'RocknRoll One', sans-serif;
+    font-weight: 400;
+    word-wrap: break-word;
+  }
+
+  .Listas {
+    left: 85%;
+    top: 40px;
+    position: absolute;
+    color: white;
+    font-size: 15px;
+    font-family: RocknRoll One;
+    font-weight: 400;
+    word-wrap: break-word;
+    }
+    
+    .Musicas {
+    left: 80%;
+    top: 40px;
+    position: absolute;
+    color: white;
+    font-size: 15px;
+    font-family: RocknRoll One;
+    font-weight: 400;
+    word-wrap: break-word;
+    }
+
+  .dois {
+    width: 38px;
+    height: 38px;
+    left: 93%;
+    top: 28px;
+    position: absolute;
+  }
+
+  .Rectangle4 {
+    width: 222px;
+    height: 192px;
+    left: 61px;
+    top: 281px;
+    position: absolute;
+    background: white;
+    border-radius: 25px;
+  }
+
+  .logobanda {
+    width: 209px;
+    height: 176px;
+    left: 66px;
+    top: 289px;
+    position: absolute;
+    border-radius: 21px;
+  }
+
+  .tres {
+    width: 40px;
+    height: 34px;
+    left: 97px;
+    top: 488px;
+    position: absolute;
+  }
+  .coracao{
+    width: 35px;
+    height: 30px;
+    left: 192px;
+    top: 488px;
+    position: absolute;
+
+  }
+
+  .BlackSabbath {
+    width: 267px;
+    height: 54px;
+    left: 45px;
+    top: 227px;
+    position: absolute;
+    text-align: center;
+    color: white;
+    font-size: 28px;
+    font-family: 'Merriweather Sans', sans-serif;
+    font-weight: 400;
+    text-decoration: underline;
+    word-wrap: break-word;
+  }
+
+  .ListaDeFaixas {
+    width: 430px;
+    left: 44%;
+    top: 609px;
+    position: absolute;
+    color: white;
+    font-size: 18px;
+    font-family: 'RocknRoll One', sans-serif;
+    font-weight: 400;
+    word-wrap: break-word;
+  }
+
+  .DuraçãoeLançamento {
+    left: 43%;
+    top: 552px;
+    position: absolute;
+    color: white;
+    font-size: 15px;
+    font-family: 'RocknRoll One', sans-serif;
+    font-weight: 400;
+    word-wrap: break-word;
+  }
+
+  .Vector {
+    width: 32px;
+    height: 34px;
+    left: 196px;
+    top: 488px;
+    position: absolute;
+    background: white;
+  }
+
+  .IconRocketMusic1 {
+    width: 90px;
+    height: 76px;
+    left: 47px;
+    top: 5px;
+    position: absolute;
+    border: 1px solid black;
+  }
+
+  .BlackSabbathDebutAlbum1 {
+    width: 338px;
+    height: 298px;
+    left: 80%;
+    top: 207px;
+    position: absolute;
+    border-radius: 39px;
+  }
+
+  .BlackSabbath1970 {
+    width: 289px;
+    height: 30px;
+    left: 82%;
+    top: 148px;
+    position: absolute;
+    color: white;
+    font-size: 26px;
+    font-family: 'Merriweather Sans', sans-serif;
+    font-weight: 400;
+    text-decoration: underline;
+    word-wrap: break-word;
+  }
+
+  .Quadro6 {
+    width: 359px;
+    height: 332px;
+    left: 79.3%;
+    top: 514px;
+    position: absolute;
+  }
+
+  .Retângulo5 {
+    width: 359px;
+    height: 332px;
+    left: 3px;
+    top: 2px;
+    position: absolute;
+    background: rgba(113, 136, 191, 0.15);
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 30px;
+    border: 1px solid rgba(14, 21, 36, 0);
+  }
+
+  .notas1 {
+    width: 27px;
+    height: 32px;
+    left: 125px;
+    top: 125px;
+    position: absolute;
+  }
+
+  .notas2 {
+    width: 27px;
+    height: 32px;
+    left: 85px;
+    top: 125px;
+    position: absolute;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border: 1px solid rgba(0, 0, 0, 0);
+  }
+
+  .notas3 {
+    width: 27px;
+    height: 32px;
+    left: 165px;
+    top: 125px;
+    position: absolute;
+  }
+
+  .notas4 {
+    width: 27px;
+    height: 32px;
+    left: 205px;
+    top: 125px;
+    position: absolute;
+  }
+
+  .notas5 {
+    width: 27px;
+    height: 32px;
+    left: 245px;
+    top: 125px;
+    position: absolute;
+  }
+
+  .Avalie {
+    width: 58px;
+    height: 27px;
+    left: 157px;
+    top: 78px;
+    position: absolute;
+    color: white;
+    font-size: 18px;
+    font-family: 'RocknRoll One', sans-serif;
+    font-weight: 400;
+    word-wrap: break-word;
+  }
+
+  .Vector {
+    width: 37.68px;
+    height: 32.38px;
+    left: 56.53px;
+    top: 14.62px;
+    position: absolute;
+    background: white;
+  }
+
+  .dez {
+    width: 38px;
+    height: 37px;
+    left: 55px;
+    top: 13px;
+    position: absolute;
+    background-color: #181A1F;
+    border: 1px solid rgba(19, 7, 7, 0);
+  }
+
+  .nove {
+    width: 38px;
+    height: 37px;
+    left: 264px;
+    top: 13px;
+    position: absolute;
+    border: 1px solid rgba(19, 7, 7, 0);
+  }
+
+  .Favoritar {
+    width: 69px;
+    height: 32px;
+    left: 41px;
+    top: 58px;
+    position: absolute;
+    color: white;
+    font-size: 15px;
+    font-family: 'RocknRoll One', sans-serif;
+    font-weight: 400;
+    word-wrap: break-word;
+  }
+
+  .OuvirMaisTarde {
+    width: 127px;
+    height: 32px;
+    left: 219px;
+    top: 58px;
+    position: absolute;
+    color: white;
+    font-size: 15px;
+    font-family: 'RocknRoll One', sans-serif;
+    font-weight: 400;
+    word-wrap: break-word;
+  }
+
+  .Review {
+    width: 65px;
+    height: 27px;
+    left: 10%;
+    top: 183px;
+    position: absolute;
+    color: white;
+    font-size: 18px;
+    font-family: 'RocknRoll One', sans-serif;
+    font-weight: 400;
+    word-wrap: break-word;
+  }
+
+  .AdicionarALista {
+    width: 135px;
+    height: 24px;
+    left: 124px;
+    top: 230px;
+    position: absolute;
+    color: white;
+    font-size: 16px;
+    font-family: 'RocknRoll One', sans-serif;
+    font-weight: 400;
+    word-wrap: break-word;
+  }
+
+  .Compartilhar {
+    width: 101px;
+    height: 22px;
+    left: 138px;
+    top: 279px;
+    position: absolute;
+    color: white;
+    font-size: 15px;
+    font-family: 'RocknRoll One', sans-serif;
+    font-weight: 400;
+    word-wrap: break-word;
+  }
+
+  .Linha3 {
+    width: 227px;
+    height: 0;
+    left: 19%;
+    top: 168px;
+    position: absolute;
+    border: 1px white solid;
+  }
+
+  .Linha5 {
+    width: 228px;
+    height: 0;
+    left: 19%;
+    top: 219px;
+    position: absolute;
+    border: 1px white solid;
+  }
+
+  .Linha6 {
+    width: 226px;
+    height: 0;
+    left: 19%;
+    top: 272px;
+    position: absolute;
+    border: 1px white solid;
+  }
+
+  .Review {
+    width: 681px;
+    height: 127.99px;
+    left: 384px;
+    top: 1077px;
+    position: absolute;
+  }
+
+  .Linha2 {
+    width: 681px;
+    height: 0;
+    left: -51%;
+    top: 36px;
+    position: absolute;
+    border: 1px white solid;
+  }
+
+  .ReviewsPopulares {
+    left: -50%;
+    top: 0;
+    position: absolute;
+    color: white;
+    font-size: 15px;
+    font-family: 'RocknRoll One', sans-serif;
+    font-weight: 400;
+    word-wrap: break-word;
+  }
+
+  .AmoooEsseAlbumMudouOMundoDoRock {
+    left: -40%;
+    top: 84px;
+    position: absolute;
+    color: white;
+    font-size: 15px;
+    font-family: 'RocknRoll One', sans-serif;
+    font-weight: 400;
+    word-wrap: break-word;
+  }
+
+  .Ellipse1 {
+    width: 45px;
+    height: 44px;
+    left: -50%;
+    top: 71px;
+    position: absolute;
+    border-radius: 9999px;
+  }
+
+  .Eusoudorockporraa {
+    left: -40%;
+    top: 64px;
+    position: absolute;
+    color: white;
+    font-size: 15px;
+    font-family: 'RocknRoll One', sans-serif;
+    font-weight: 400;
+    word-wrap: break-word;
+  }
+
+  .Linha1 {
+    width: 679px;
+    height: 0;
+    left: -51%;
+    top: 127.41px;
+    position: absolute;
+    opacity: 0.80;
+    border: 1px white solid;
+  }
+
+  .resumoalbum {
+    width: 653px;
+    height: 195px;
+    left: 33%;
+    top: 862px;
+    position: absolute;
+    text-align: center;
+    color: white;
+    font-size: 15px;
+    font-family: 'RocknRoll One', sans-serif;
+    font-weight: 400;
+    word-wrap: break-word;
+  }
+  

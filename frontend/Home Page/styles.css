@@ -1,0 +1,478 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body {
+	z-index: 1;
+	overflow-x: hidden;
+}
+
+.desktop-1 * {
+box-sizing: border-box;
+}
+
+.desktop-1 {
+background: #080A15;
+width: auto;
+height: 1934px;
+position: relative;
+}
+
+.linha1 {
+border-style: solid;
+border-color: #ffffff;
+border-width: 1px 0 0 0;
+width: 2010px;
+height: 0px;
+position: absolute;
+left: 54px;
+top: 1008px;
+}
+.linha4 {
+border-style: solid;
+border-color: #ffffff;
+border-width: 1px 0 0 0;
+width: 2010px;
+height: 0px;
+position: absolute;
+left: 54px;
+top: 773px;
+}
+.linha2 {
+border-style: solid;
+border-color: #ffffff;
+border-width: 1px 0 0 0;
+width: 2010px;
+height: 0px;
+position: absolute;
+left: 54px;
+top: 1257px;
+}
+
+.Navbar {
+width: 100%;
+height: 87px;
+position: relative;
+}
+
+.retangulo1 {
+width: 100%;
+height: 100%;
+position: absolute;
+background: rgba(47, 44, 44, 0.28);
+}
+
+.Listas {
+left: 85%;
+top: 40px;
+position: absolute;
+color: white;
+font-size: 15px;
+font-family: RocknRoll One;
+font-weight: 400;
+word-wrap: break-word;
+}
+
+.Musicas {
+left: 80%;
+top: 40px;
+position: absolute;
+color: white;
+font-size: 15px;
+font-family: RocknRoll One;
+font-weight: 400;
+word-wrap: break-word;
+}
+
+.retangulo3 {
+width: 175px; 
+height: 57px; 
+left: 5%; 
+top: 432px; 
+position: absolute; 
+background: #141340; 
+border-radius: 15px;
+
+}
+
+.retangulo4{ 
+width: 175px; 
+height: 57px; 
+left: 17%; 
+top: 432px; 
+position: absolute; 
+background: #141340; 
+border-radius: 15px;
+}
+
+
+.icone1 {
+  width: 22px;
+  height: 22px;
+  position: absolute;
+  left: 89.5%;
+  top: 40px;
+}
+
+.RocketMusicS {
+  left: 162px;
+  top: 33%;
+  position: absolute;
+}
+
+.RocketMusicS span {
+  color: #41959A;
+  font-size: 30px;
+  font-family: RocknRoll One;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.IconRocketMusic1 {
+  width: 90px;
+  height: 76px;
+  left: 2%;
+  top: 5px;
+  position: absolute;
+  border: 1px solid black;
+}
+
+.linha3 {
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 1px 0 0 0;
+  width: 2010px;
+  height: 0px;
+  position: absolute;
+  left: 41px;
+  top: 1593px;
+}
+
+.conecteamgs {
+  color: #ffffff;
+  text-align: left;
+  font: 400 18px "RocknRoll One", sans-serif;
+  position: absolute;
+  left: 4%;
+  top: 202px;
+  width: 481px;
+  height: 181px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+
+
+.icone2 {
+  width: 38px;
+  height: 38px;
+  position: absolute;
+  left: 93%;
+  top: 28px;
+}
+
+
+
+
+
+/*------------------------------------------------------------------------------------------*/
+
+/* PARTE DO LOGIN, MOSTRAR MAIS E BANNER */
+.criar-conta {
+color: #ffffff;
+text-align: left;
+font: 400 18px "RocknRoll One", sans-serif;
+position: absolute;
+left: 7%;
+top: 450px;
+display: flex;
+align-items: center;
+justify-content: flex-start;
+}
+
+.fazer-login {
+color: #ffffff;
+text-align: left;
+font: 400 18px "RocknRoll One", sans-serif;
+position: absolute;
+left: 18.9%;
+top: 450px;
+display: flex;
+align-items: center;
+justify-content: flex-start;
+}
+.BANNER-SITE{
+border-radius: 25px;
+width: 679px;
+height: 421px;
+position: absolute;
+left: 65%;
+top: 151px;
+}
+
+.mostrar-mais {
+color: #ffffff;
+text-align: center;
+font: 400 15px "Inter", sans-serif;
+position: absolute;
+left: 92%;
+top: 745px;
+}
+
+.frame-1 {
+width: 1409px;
+height: 266px;
+position: absolute;
+left: 11px;
+top: 1668px;
+overflow: hidden;
+}
+
+.recomendados {
+color: #ffffff;
+text-align: left;
+font: 400 18px "RocknRoll One", sans-serif;
+position: absolute;
+left: 55px;
+top: 1052px;
+display: flex;
+align-items: center;
+justify-content: flex-start;
+}
+
+.recomendadosimg1 {
+width: 130px;
+height: 131px;
+position: absolute;
+left: 238px;
+top: 807px;
+}
+
+.recomendadosimg2 {
+width: 131px;
+height: 131px;
+position: absolute;
+left: 3%;
+top: 807px;
+}
+
+/*------------------------------------------------------------------------------------------*/
+
+/* ALBUNS LANÇAMENTOS */
+.lancamentos {
+color: #ffffff;
+text-align: left;
+font: 400 18px "RocknRoll One", sans-serif;
+position: absolute;
+left: 54px;
+top: 737px;
+display: flex;
+align-items: center;
+justify-content: flex-start;
+}
+
+.nomealbum1 {
+color: #ffffff;
+text-align: center;
+font: 400 15px "Inter", sans-serif;
+position: absolute;
+left: 2.8%;
+top: 955px;
+}
+.nomealbum2 {
+color: #ffffff;
+text-align: center;
+font: 400 15px "Inter", sans-serif;
+position: absolute;
+left: 247px;
+top: 951px;
+}
+/*------------------------------------------------------------------------------------------*/
+
+/* ALBUNS LISTAS POPULARES */
+.listas-populares {
+color: #ffffff;
+text-align: left;
+font: 400 18px "RocknRoll One", sans-serif;
+position: absolute;
+left: 55px;
+top: 1309px;
+display: flex;
+align-items: center;
+justify-content: flex-start;
+}
+
+/* LISTAS 1 DOS POPULARES */
+.lista-1 {
+position: absolute;
+inset: 0;
+}
+.retangulo22 {
+background: #130e33;
+border-radius: 35px;
+width: 388px;
+height: 100.13px;
+position: absolute;
+left: 62px;
+top: calc(95% - -423px);
+}
+.lista1album1 {
+border-radius: 20px;
+width: 85px;
+height: 100.07px;
+position: absolute;
+left: 54px;
+top: 1386.87px;
+}
+.lista1album2 {
+border-radius: 20px;
+width: 85px;
+height: 100.13px;
+position: absolute;
+left: 117px;
+top: 1386.87px;
+}
+.lista1album3 {
+border-radius: 20px;
+width: 89px;
+height: 100.13px;
+position: absolute;
+left: 192px;
+top: 1386.87px;
+}
+.lista1album4 {
+border-radius: 20px;
+width: 86px;
+height: 100.13px;
+position: absolute;
+left: 271px;
+top: 1386.87px;
+}
+.lista1album5 {
+border-radius: 20px;
+width: 89px;
+height: 99.36px;
+position: absolute;
+left: 353px;
+top: 1386.87px;
+}
+/*------------------------------------------------------------------------------------------*/
+
+/* LISTAS 2 DOS POPULARES */
+.lista-2 {
+position: absolute;
+inset: 0;
+}
+.retangulo2 {
+background: #130e33;
+border-radius: 35px;
+width: 388px;
+height: 114.05px;
+position: absolute;
+left: 691px;
+top: calc(95% - -411px);
+}
+.lista2almbum1 {
+border-radius: 23px;
+width: 85px;
+height: 113.98px;
+position: absolute;
+left: 691px;
+top: 1390.08px;
+}
+.lista2album2 {
+border-radius: 23px;
+width: 85px;
+height: 114.05px;
+position: absolute;
+left: 754px;
+top: 1390.08px;
+}
+.lista2album3 {
+border-radius: 23px;
+width: 89px;
+height: 114.05px;
+position: absolute;
+left: 829px;
+top: 1390.08px;
+}
+.lista2album4 {
+border-radius: 20px;
+width: 86px;
+height: 114.05px;
+position: absolute;
+left: 908px;
+top: 1390.08px;
+}
+.lista2album5 {
+border-radius: 20px;
+width: 77px;
+height: 113.18px;
+position: absolute;
+left: 996px;
+top: 1390.08px;
+}
+/*------------------------------------------------------------------------------------------*/
+
+/* ALBUNS MELHORES DO POP E ROCK*/
+.melhores-do-pop {
+color: #ffffff;
+text-align: left;
+font: 400 18px "RocknRoll One", sans-serif;
+position: absolute;
+left: 168px;
+top: 1549px;
+display: flex;
+align-items: center;
+justify-content: flex-start;
+}
+.melhores-do-rock {
+color: #ffffff;
+text-align: left;
+font: 400 18px "RocknRoll One", sans-serif;
+position: absolute;
+left: 810px;
+top: 1554px;
+display: flex;
+align-items: center;
+justify-content: flex-start;
+}
+
+/*------------------------------------------------------------------------------------------*/
+
+/* PARTE DO FOOTER */
+.footer * {
+box-sizing: border-box;
+}
+.footer {
+background: #121323;
+width: auto;
+height: 360px;
+position: relative;
+}
+.footer__quem-somos {
+color: #ffffff;
+text-align: left;
+font: 400 15px "RocknRoll One", sans-serif;
+position: absolute;
+left: 79px;
+top: 62px;
+display: flex;
+align-items: center;
+justify-content: flex-start;
+}
+.footer__contato {
+color: #ffffff;
+text-align: left;
+font: 400 15px "RocknRoll One", sans-serif;
+position: absolute;
+left: 433px;
+top: 62px;
+display: flex;
+align-items: center;
+justify-content: flex-start;
+}
+
+/*------------------------------------------------------------------------------------------*/
